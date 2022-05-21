@@ -1,6 +1,25 @@
 # Data-Science-Airbnb-price-prediction-with-Machine-Learning
 
-            
+Project that looks at the relationship between Airbnb prices and its determinants. also an Geospatial analysis by looking into locational features as possible predictors. 
+
+## Project Summary
+The summay of this project is a data-driven solution, by using machine learning to predict rental price.
+
+The project is a predictor on space will be introduced to the model: the property's proximity to certain venues. This will allow the model to put an implicit price on things such as living close to a bar or a supermarket.
+
+## The data
+
+### Some of the more important features this project will look into are the following:
+1. accommodates: the number of guests the rental can accommodate
+2. bedrooms: number of bedrooms included in the rental
+3. bathrooms: number of bathrooms included in the rental
+3. beds: number of beds included in the rental. 
+4. price: nightly price for the rental
+5. minimum_nights: minimum number of nights a guest can stay for the rental
+6. maximum_nights: maximum number of nights a guest can stay for the rental
+7. number_of_reviews: number of reviews that previous guests have left
+
+
 
 ![image](https://user-images.githubusercontent.com/12861265/164324522-4e049a32-5d2f-49a3-80f8-c8f508935a6d.png)
 
@@ -65,7 +84,7 @@
 
 
 
-
+## Variables description:
 
 
 
