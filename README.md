@@ -11,13 +11,11 @@ The project is a predictor on space will be introduced to the model: the propert
 
 ### Some of the more important features this project will look into are the following:
 1. accommodates: the number of guests the rental can accommodate
-2. bedrooms: number of bedrooms included in the rental
-3. bathrooms: number of bathrooms included in the rental
-3. beds: number of beds included in the rental. 
-4. price: nightly price for the rental
-5. minimum_nights: minimum number of nights a guest can stay for the rental
-6. maximum_nights: maximum number of nights a guest can stay for the rental
-7. number_of_reviews: number of reviews that previous guests have left
+2. price: nightly price for the rental
+3. minimum_nights: minimum number of nights a guest can stay for the rental
+4. maximum_nights: maximum number of nights a guest can stay for the rental
+5. number_of_reviews: number of reviews that previous guests have left
+
 
 
 
