@@ -1,6 +1,6 @@
 # Data-Science-Airbnb-price-prediction-with-Machine-Learning
 
-Project that looks at the relationship between Airbnb prices and its determinants. also an Geospatial analysis by looking into locational features as possible predictors. 
+Project that looks at the relationship between Airbnb prices and its determinants. also an Geospatial analysis by looking into locational features as possible predictors.  
 
 ## Project Summary
 The summay of this project is a data-driven solution, by using machine learning to predict rental price.
